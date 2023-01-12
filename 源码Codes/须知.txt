@@ -1,0 +1,3 @@
+使用VC6或者VC7才可以编译！
+编译时需要在tools/link.ini末尾加上：
+extra_args=/NODEFAULTLIB:LIBC.LIB
